@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a05fc05e83b9e2105861f8f6feaad3c2" label="Procedimentos SUS" max_length="40" name="x_1762673_regulasu_procedimentos_sus" type="collection">
+        <element display="true" label="Nome do Procedimento" max_length="255" name="nome_do_procedimento" type="string"/>
+        <element label="Especialidade Requerida" max_length="200" name="especialidade_requerida" type="string"/>
+        <element choice="1" label="Tipo de Procedimento" max_length="40" name="tipo_de_procedimento" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Consulta" sequence="1" value="consulta"/>
+                <element inactive_on_update="false" label="Terapia" sequence="4" value="terapia"/>
+                <element inactive_on_update="false" label="Exame Diagnóstico" sequence="2" value="exame diagnostico"/>
+                <element inactive_on_update="false" label="Cirurgia Eletiva" sequence="3" value="cirurgia eletiva"/>
+            </choice>
+        </element>
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element label="Código do Procedimento" max_length="20" name="codigo_do_procedimento" type="string"/>
+    </element>
+</database>

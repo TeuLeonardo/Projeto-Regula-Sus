@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-30 20:58:22</sys_created_on>
+        <sys_id>db57405283b9e2105861f8f6feaad3d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1762673_regulasu_profissionais_de_sa_de.x_1762673_regulasu.profissionais_de_sa_de_user</sys_name>
+        <sys_package display_value="RegulaSus" source="x_1762673_regulasu">0b82441a8379e2105861f8f6feaad3bc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RegulaSus">0b82441a8379e2105861f8f6feaad3bc</sys_scope>
+        <sys_security_acl display_value="x_1762673_regulasu_profissionais_de_sa_de">4757405283b9e2105861f8f6feaad3d0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_db57405283b9e2105861f8f6feaad3d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-30 20:58:22</sys_updated_on>
+        <sys_user_role display_value="x_1762673_regulasu.profissionais_de_sa_de_user" name="x_1762673_regulasu.profissionais_de_sa_de_user">cb57401283b9e2105861f8f6feaad353</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

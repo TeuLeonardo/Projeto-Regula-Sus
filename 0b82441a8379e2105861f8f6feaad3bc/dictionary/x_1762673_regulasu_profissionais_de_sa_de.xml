@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c1b6c01283b9e2105861f8f6feaad376" extends="sys_user" label="Profissionais de Saúde" max_length="40" name="x_1762673_regulasu_profissionais_de_sa_de" type="collection">
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element choice="1" label="Especialidade Principal" max_length="40" name="especialidade_principal" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pediatria" sequence="2" value="pediatria"/>
+                <element inactive_on_update="false" label="Ortopedia" sequence="3" value="ortopedia"/>
+                <element inactive_on_update="false" label="Cardiologia" sequence="4" value="cardiologia"/>
+                <element inactive_on_update="false" label="Clínica Geral" sequence="1" value="clicina geral"/>
+                <element inactive_on_update="false" label="Ginecologista" sequence="5" value="ginecologista"/>
+            </choice>
+        </element>
+        <element label="Data de Demissão" max_length="40" name="data_de_demissao" type="glide_date"/>
+        <element label="Data de Contratação" max_length="40" name="data_de_contratacao" type="glide_date"/>
+        <element label="CRM" max_length="40" name="crm" type="string"/>
+    </element>
+</database>

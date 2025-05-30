@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="f13e08da83b9e2105861f8f6feaad3b4" sys_domain="global" table="x_1762673_regulasu_profissionais_de_sa_de" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b93e48da83b9e2105861f8f6feaad3d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1762673_regulasu_profissionais_de_sa_de" name="x_1762673_regulasu_profissionais_de_sa_de" sys_domain="global" view="Default view">f13e08da83b9e2105861f8f6feaad3b4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1762673_regulasu_profissionais_de_sa_de" sys_domain="global" view="Default view">4a6d4c5a83b9e2105861f8f6feaad352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:28:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:28:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>753e48da83b9e2105861f8f6feaad3d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1762673_regulasu_profissionais_de_sa_de" name="x_1762673_regulasu_profissionais_de_sa_de" sys_domain="global" view="Default view">f13e08da83b9e2105861f8f6feaad3b4</sys_ui_form>
+            <sys_ui_section caption="Informações" display_value="Informações" name="x_1762673_regulasu_profissionais_de_sa_de" sys_domain="global" view="Default view">753e08da83b9e2105861f8f6feaad3b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:28:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:28:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f13e08da83b9e2105861f8f6feaad3b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1762673_regulasu_profissionais_de_sa_de</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RegulaSus" source="x_1762673_regulasu">0b82441a8379e2105861f8f6feaad3bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RegulaSus">0b82441a8379e2105861f8f6feaad3bc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f13e08da83b9e2105861f8f6feaad3b4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:28:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

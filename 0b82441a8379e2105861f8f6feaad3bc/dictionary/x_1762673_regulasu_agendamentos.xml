@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="005f045e83b9e2105861f8f6feaad348" extends="task" label="Agendamentos" max_length="40" name="x_1762673_regulasu_agendamentos" type="collection">
+        <element label="Paciente" max_length="32" name="paciente" reference="x_1762673_regulasu_pacientes" type="reference"/>
+        <element label="Profissional de Sáude designado" max_length="32" name="profissional_de_saude_designado" reference="x_1762673_regulasu_profissionais_de_sa_de" type="reference"/>
+        <element label="Data/Hora solicitada" max_length="40" name="data_hora_solicitada" type="glide_date_time"/>
+        <element label="Observações do agendamento" max_length="200" name="observacoes_do_agendamento" type="string"/>
+        <element label="Unidade de Sáude Solicitante" max_length="32" name="unidade_de_s_ude_solicitante" reference="x_1762673_regulasu_unidade_de_s_ude" type="reference"/>
+        <element label="Procedimento" max_length="32" name="procedimento" reference="x_1762673_regulasu_procedimentos_sus" type="reference"/>
+        <element choice="1" label="Prioridade" max_length="40" name="prioridade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Alta" sequence="1" value="alta"/>
+                <element inactive_on_update="false" label="Baixa" sequence="2" value="baixa"/>
+                <element inactive_on_update="false" label="Urgente" sequence="3" value="urgente"/>
+                <element inactive_on_update="false" label="Alta" sequence="4" value="alta"/>
+            </choice>
+        </element>
+        <element label="Data/Hora Agendada" max_length="40" name="data_hora_agendada" type="glide_date_time"/>
+        <element label="Observações da Solicitação" max_length="200" name="observacoes_da_solicitacao" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Agendado" sequence="1" value="agendado"/>
+                <element inactive_on_update="false" label="Aguardando Confirmação Paciente" sequence="2" value="aguardando confirmação paciente"/>
+                <element inactive_on_update="false" label="Cancelado Unidade" sequence="3" value="cancelado unidade"/>
+                <element inactive_on_update="false" label="Realizado" sequence="4" value="realizado"/>
+                <element inactive_on_update="false" label="Paciente" sequence="5" value="paciente"/>
+                <element inactive_on_update="false" label="Encaminhado" sequence="6" value="encaminhado"/>
+                <element inactive_on_update="false" label="Cancelado" sequence="7" value="cancelado"/>
+                <element inactive_on_update="false" label="Solicitado" sequence="8" value="solicitado"/>
+            </choice>
+        </element>
+    </element>
+</database>

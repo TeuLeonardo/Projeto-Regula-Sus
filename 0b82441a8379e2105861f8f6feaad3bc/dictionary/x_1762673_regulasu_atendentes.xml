@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="25af5c56833de2105861f8f6feaad3b9" extends="sys_user" label="Atendentes" max_length="40" name="x_1762673_regulasu_atendentes" type="collection">
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element choice="1" label="Gestor" max_length="40" name="gestor" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Não" sequence="2" value="não"/>
+                <element inactive_on_update="false" label="Sim" sequence="1" value="sim"/>
+            </choice>
+        </element>
+        <element label="Data de Contratação" max_length="40" name="data_de_contratacao" type="glide_date"/>
+        <element label="Data de demissão" max_length="40" name="data_de_demissao" type="glide_date"/>
+    </element>
+</database>

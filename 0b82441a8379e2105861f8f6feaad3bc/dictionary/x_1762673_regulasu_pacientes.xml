@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="23e4001e8379e2105861f8f6feaad37b" extends="sys_user" label="Pacientes" max_length="40" name="x_1762673_regulasu_pacientes" type="collection">
+        <element label="Ativo" max_length="40" name="ativo" type="boolean"/>
+        <element label="Telefone de Contato" max_length="164" name="telefone_de_contato" type="string"/>
+        <element label="Número do cartão Sus" max_length="20" name="numero_do_cartao_sus" type="string"/>
+        <element label="Data de Nascimento" max_length="40" name="data_de_nascimento" type="glide_date"/>
+        <element label="Endereço Completo" max_length="32" name="endereco_completo" reference="cmn_location" type="reference"/>
+        <index name="index">
+            <element name="endereco_completo"/>
+        </index>
+    </element>
+</database>

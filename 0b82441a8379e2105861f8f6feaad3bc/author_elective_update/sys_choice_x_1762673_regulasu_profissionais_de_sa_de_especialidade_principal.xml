@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="especialidade_principal" table="x_1762673_regulasu_profissionais_de_sa_de" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>especialidade_principal</element>
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:03:35</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>especialidade_principal</sys_name>
+            <sys_package display_value="RegulaSus" source="x_1762673_regulasu">0b82441a8379e2105861f8f6feaad3bc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RegulaSus">0b82441a8379e2105861f8f6feaad3bc</sys_scope>
+            <sys_update_name>sys_choice_x_1762673_regulasu_profissionais_de_sa_de_especialidade_principal</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:03:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>especialidade_principal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clínica Geral</label>
+            <language>en</language>
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:03:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:07:19</sys_updated_on>
+            <value>clicina geral</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>especialidade_principal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pediatria</label>
+            <language>en</language>
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:07:22</sys_updated_on>
+            <value>pediatria</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>especialidade_principal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ortopedia</label>
+            <language>en</language>
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:04:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:07:23</sys_updated_on>
+            <value>ortopedia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>especialidade_principal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cardiologia</label>
+            <language>en</language>
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:03:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:07:25</sys_updated_on>
+            <value>cardiologia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>especialidade_principal</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ginecologista</label>
+            <language>en</language>
+            <name>x_1762673_regulasu_profissionais_de_sa_de</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-30 21:05:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-30 21:07:28</sys_updated_on>
+            <value>ginecologista</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

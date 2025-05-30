@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8348c89283b9e2105861f8f6feaad3d7" label="Unidade de sáude" max_length="40" name="x_1762673_regulasu_unidade_de_s_ude" type="collection">
+        <element choice="1" label="Tipo de unidade" max_length="40" name="tipo_de_unidade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Laboratório" sequence="1" value="Laboratório"/>
+                <element inactive_on_update="false" label="Posto de Saúde" sequence="2" value="Posto de Saúde"/>
+                <element inactive_on_update="false" label="Hospital" sequence="3" value="hospital"/>
+                <element inactive_on_update="false" label="Clínica Especializada" sequence="4" value="Clínica Especializada"/>
+            </choice>
+        </element>
+        <element label="Cnes" max_length="15" name="cnes" type="string"/>
+        <element label="Endereço" max_length="32" name="endereco" reference="cmn_location" type="reference"/>
+        <element label="Ativa" max_length="40" name="ativa" type="boolean"/>
+        <element display="true" label="Nome da Unidade" max_length="100" name="nome_da_unidade" type="string"/>
+        <element label="Telefone Principal" max_length="40" name="telefone_principal" type="string"/>
+        <index name="index">
+            <element name="endereco"/>
+        </index>
+    </element>
+</database>
