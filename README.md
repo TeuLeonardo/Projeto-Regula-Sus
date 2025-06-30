@@ -41,7 +41,6 @@ Automatizar e centralizar os processos de regulação no SUS através de uma pla
 ## 🧪 Plataforma Utilizada
 
 - **ServiceNow** – Plataforma de automação corporativa
-- Instância de desenvolvimento fornecida pela **EDX**
 
 ---
 
