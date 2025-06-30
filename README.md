@@ -68,7 +68,7 @@ Este projeto foi desenvolvido por estudantes do 2º período na **Residência Te
 
 ## 👥 Equipe
 
-- [Danilo Oliveira](https://github.com/Mandreasn) 
+- [Danilo Oliveira](https://github.com/DanOliveira5) 
 - [Júlio Cesar](https://github.com/JulioC3sarDev) 
 - [Matheus Leonardo](https://github.com/TeuLeonardo)
 - **Pedro Melo**
