@@ -71,7 +71,8 @@ Este projeto foi desenvolvido por estudantes do 2º período na **Residência Te
 
 - [Danilo Oliveira](https://github.com/Mandreasn) 
 - [Júlio Cesar](https://github.com/Mariavitoriaoliveiracarvalho) 
-- [Matheus Leonardo](https://github.com/TeuLeonardo) 
+- [Matheus Leonardo](https://github.com/TeuLeonardo)
+- [Pedro Melo](https://github.com/TeuLeonardo) 
 - [Rony Vieira](https://github.com/rony-vieira)  
 
 ---
