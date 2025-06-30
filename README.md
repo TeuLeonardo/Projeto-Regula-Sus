@@ -61,7 +61,7 @@ Este projeto foi desenvolvido por estudantes do 2º período na **Residência Te
 
 ## 📍 Status
 
-✅ Projeto finalizado e apresentado 
+✅ Projeto finalizado e apresentado <br>
 ⭐ Selecionado para representar a EDX no Demoday
 
 ---
@@ -71,7 +71,7 @@ Este projeto foi desenvolvido por estudantes do 2º período na **Residência Te
 - [Danilo Oliveira](https://github.com/Mandreasn) 
 - [Júlio Cesar](https://github.com/JulioC3sarDev) 
 - [Matheus Leonardo](https://github.com/TeuLeonardo)
-- [Pedro Melo](https://github.com/TeuLeonardo) 
+- **Pedro Melo**
 - [Rony Vieira](https://github.com/rony-vieira)  
 
 ---
